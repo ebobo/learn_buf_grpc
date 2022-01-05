@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"net"
 
-	"github.com/ebobo/learn_buf_grpc/proto"
+	"github.com/ebobo/learn_buf_grpc/pkg/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
